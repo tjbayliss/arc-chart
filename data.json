@@ -1,0 +1,11 @@
+{"nodes":[
+    {"name":"Cited-Article1","n":5,"grp":1,"id":"Cited-Article1", "date":"01/01/2005"},
+    {"name":"Citing-Article1","n":5,"grp":1,"id":"Citing-Article1", "date":"01/01/2011"},
+    {"name":"Citing-Article2","n":5,"grp":1,"id":"Citing-Article2", "date":"01/01/2015"}
+],
+
+"links":[
+    {"source":"Cited-Article1","target":"Citing-Article1","value":1},
+    {"source":"Cited-Article1","target":"Citing-Article2","value":1}
+],
+"attributes":{}}
